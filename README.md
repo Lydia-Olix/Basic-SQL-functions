@@ -4,7 +4,7 @@
 ### Create  a  database  Shopxyz_db
 CREATE DATABASE ShopXYZ_db;
 ### *Scenario: You have two tables, sales_data and representatives, as described in the example provided. Using these tables, write queries that demonstrate different types of joins*.
-CREATE TABLE sales_data: Link
+CREATE TABLE sales_data
 
 
 INSERT INTO sales_data 
